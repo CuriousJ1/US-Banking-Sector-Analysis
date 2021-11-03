@@ -4,7 +4,7 @@
 
 In this project, we focus on the exploratory data analysis of the US banking sector through the years of 2006 to 2016. This time series includes the global financial crisis which occured in 2009.
 
-The US banking sector sector companies we include are 
+The US banking sector companies included are:
 
 * Bank of America
 * CitiGroup
