@@ -2,7 +2,16 @@
 
 ## Introduction
 
-In this project, we focus on exploratory data analysis of the US banking sector through the years of 2006 to 2016 which includes the global financial crisis.
+In this project, we focus on the exploratory data analysis of the US banking sector through the years of 2006 to 2016. This time series includes the global financial crisis which occured in 2009.
+
+The US banking sector sector companies we include are 
+
+* Bank of America
+* CitiGroup
+* Goldman Sachs
+* JPMorgan Chase
+* Morgan Stanley
+* Wells Fargo
 
 The code is based on my own exploration of Python's functionalities, libraries and Quandl's API.
 
@@ -18,4 +27,6 @@ Matplotlib: A Python library integrating matplot for visualization.
 
 SeaBorn: Another higher level Python library for visualization.
 
-Quandl API: API used to access labeled financial data.
+Cufflinks: High level Python library used to create interactive visualisations.
+
+Quandl: API used to access labeled financial data.
