@@ -2,9 +2,9 @@
 
 ## Introduction
 
-In this project, we focus on the exploratory data analysis of the US banking sector through out the years of 2006 to 2016. This time series includes the global financial crisis which occured in 2009.
+In this project, we focus on exploratory data analysis of the US banking sector within the years of 2006 to 2016. This time series includes the global financial crisis which occured in 2009.
 
-The US banking sector companies included are:
+The US banking sector companies that we are analysing are:
 
 * Bank of America
 * CitiGroup
@@ -13,7 +13,10 @@ The US banking sector companies included are:
 * Morgan Stanley
 * Wells Fargo
 
+Based on the results of the analysis, interpretations or insights were made about the dataset.
+
 The code is based on my own exploration of Python's functionalities, libraries and Quandl's API.
+
 
 ## Technologies
 
